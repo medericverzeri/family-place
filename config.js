@@ -3,7 +3,7 @@
    ============================================================ */
 window.CONFIG = {
   // Nom affiché sur l'écran de connexion
-  FAMILY_NAME: 'Maison Martin',
+  FAMILY_NAME: 'Family place',
 
   // Supabase > Project Settings > API
   SUPABASE_URL: 'https://jpoolfbsphbsxqajflqa.supabase.co/rest/v1/',
