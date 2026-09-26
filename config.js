@@ -6,8 +6,8 @@ window.CONFIG = {
   FAMILY_NAME: 'Maison Martin',
 
   // Supabase > Project Settings > API
-  SUPABASE_URL: 'COLLE_ICI_TON_PROJECT_URL',
-  SUPABASE_ANON_KEY: 'COLLE_ICI_TA_CLE_ANON',
+  SUPABASE_URL: 'https://jpoolfbsphbsxqajflqa.supabase.co/rest/v1/',
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Impwb29sZmJzcGhic3hxYWpmbHFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAzNzE4MTUsImV4cCI6MjEwNTk0NzgxNX0.o5NwclnBt6ndaFPx9Rk8WZFOawAyXjkL50-iVIM-kSg',
 
   // Adresse de ton Worker Cloudflare (relais vidéo). Laisse vide au début :
   // les appels marcheront en Wi-Fi ; remplis-la pour la 4G.
